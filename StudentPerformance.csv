@@ -1,0 +1,14 @@
+gender,math_score,reading_score,writing_score,placement_score,club_join_year,placement_offer
+female,63,84,64,84,2020,2
+female,71,80,76,86,2018,3
+female,64,81,66,81,2020,2
+male,71,85,77,96,2018,1
+male,68,86,76,,2021,3
+female,94,86,61,100,2019,1
+male,75,79,66,-99,2020,1
+female,,,66,95,2019,3
+male,66,88,66,88,2020,3
+male,70,79,61,87,2021,2
+female,-99,80,65,85,2021,1
+male,76,84,-99,,2020,2
+female,74,79,79,98,2019,2
